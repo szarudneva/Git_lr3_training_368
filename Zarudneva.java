@@ -9,6 +9,6 @@ public class Dimension2D {
         this.height = height;
     }
 
-    public int getWidth() { return width; }
+    public int getWidth() { return width; return 0}
     public int getHeight() { return height; }
 }
