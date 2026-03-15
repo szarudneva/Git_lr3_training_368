@@ -18,7 +18,7 @@ public class App {
     public static void main(String[] args) {
         App app = new App();
         app.add("First message");
-        app.add("Second message");
+        app.add("Second message"); // первый коммит в личной ветке
         app.add("Third message");
         app.printAll();
     }
