@@ -4,7 +4,7 @@ public class Dimension2D {
     private final int width;
     private final int height;
 
-    public Dimension2D(int width, int height, int c) {
+    public Dimension2D(int width, int height, int c, int a) {
         this.width = width;
         this.height = height;
     }
